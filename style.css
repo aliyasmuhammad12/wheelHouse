@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    padding: 8px 10px;
+}
+.link p{
+    text-align: center;
+}
+/* 2ND */
+.wheelscore{
+    border: 4px solid black;
+}
+.check{
+    font-size: 40px;
+}
+.number h2{
+    font-size: 40px !important;
+}
+.house h5{
+    /* width: 140px; */
+}
+.charge{
+    font-size: 40px;
+} 
+.average-power {
+    border: 4px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 47.5% !important;
+   
+}
+.max-power{
+    border: 4px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 47.5% !important;
+   
+}
+.avr-text{
+    display: flex;
+    gap: 30px;
+    border-bottom: 4px solid black;
+    /* padding: 20px; */
+}
+.max-text{
+    display: flex;
+    gap: 30px;
+    font-weight: bold;
+}
+.both{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+/* third */
+.snake{
+    margin: 50px auto 0 auto;
+}
+.loaction-icon{
+   font-size: 40px;
+   margin-left: 40px ;
+  
+}
+.distance{
+    font-weight: bold;
+    display: flex;
+    font-size: 20px;
+    flex-direction: row;
+    gap: 15px;
+}
